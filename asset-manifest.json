@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shpora-app/static/css/main.7f47c5e7.css",
+    "main.js": "/shpora-app/static/js/main.b49f261a.js",
+    "static/media/element.png": "/shpora-app/static/media/element.8a3a96f7f7a7c23fb01a.png",
+    "static/media/shpora.jpeg": "/shpora-app/static/media/shpora.c6d0c2f38e6bb67aca4b.jpeg",
+    "static/media/3949083.webp": "/shpora-app/static/media/3949083.55e800a01e927ad98f51.webp",
+    "index.html": "/shpora-app/index.html",
+    "main.7f47c5e7.css.map": "/shpora-app/static/css/main.7f47c5e7.css.map",
+    "main.b49f261a.js.map": "/shpora-app/static/js/main.b49f261a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f47c5e7.css",
+    "static/js/main.b49f261a.js"
+  ]
+}
